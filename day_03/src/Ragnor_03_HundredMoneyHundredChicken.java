@@ -26,9 +26,10 @@ public class Ragnor_03_HundredMoneyHundredChicken {
                     if (5*x + 3*y + z/3 == 100 && z % 3 == 0){
                         System.out.print("x is :" + x );
                         System.out.print("y is :" + y);
-                        System.out.print("z is :" + z);
+                        System.out.println("z is :" + z);
 
                     }
+
                 }
             }
     }
